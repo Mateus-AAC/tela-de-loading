@@ -1,9 +1,5 @@
 # Animação-De-Loading-Com-Html-e-Css
 
-<img src="http://conteudo.imguol.com.br/c/noticias/07/2020/01/02/arte-para-o-tec-por-tras-da-calculadora-1577992106273_v2_1200x1200.jpg" alt="exemplo imagem">
-
->  Animação-De-Loading-Com-Html-e-Css.
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
